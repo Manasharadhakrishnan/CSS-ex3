@@ -1,0 +1,199 @@
+*{
+    margin:0px;
+    text-decoration: none;
+    list-style:none;
+    
+}
+.nav{
+    width:100%;
+    height: 50px;
+    background-color: black;
+}
+span{
+    color:white;
+    font-size: 1.5rem;
+    padding-left: 20px;
+    line-height: 50px;
+}
+.nav ul{
+    float: right;
+    margin-right: 20px;
+}
+.nav ul li{
+    display: inline-block;
+    margin: 0px 10px;
+    line-height: 50px;
+}
+.nav ul li a{
+    color: white;
+    padding: 15px 10px;
+}
+.nav ul li a:hover{
+    color: grey;
+    border: 2px solid gray;
+}
+.body{
+    margin:50px 50px;
+    padding: 0px;
+
+}
+#container{
+    width:100%;
+    margin-top: -0px;
+    
+}
+.column1 {
+    float: left;
+    background-color: lightgrey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 30px;
+    text-align:center;
+    font-size: 50px;
+    width: 180%;
+    height:200px;
+    
+  }
+  .column2 {
+    float: right;
+    padding: 12px;
+    margin-right: 30px;
+    background-color: white;
+  }
+.row1{
+    display: flex;
+}
+button{
+    color: white;
+    background-color: blue;
+    padding: 10px 10px;
+    border:none;
+    border-radius: 2px;
+
+}
+.column3{
+
+    color:white;
+    background-color:gainsboro;
+
+    text-decoration: none;
+    width:100%;height:40px;
+    text-align: center;
+    text-size-adjust: 8px;
+    padding-top:30px;     
+}
+.main2{
+    width: 100%;
+    height: 360px;
+    display: flex;
+}
+.column4{
+    width:33.33%;
+    height: 165px;
+    background-color:white;
+    margin-left: 30px;
+    margin-top: 40px;
+    padding: 10px;
+    border: 1px solid gainsboro;
+
+}
+.column5{
+    width:33.33%;
+    height: 165px;
+    background-color:white;
+    margin-left: 30px;
+    margin-top: 40px;
+    padding: 10px;
+    border: 1px solid gainsboro;
+
+}
+.column6{
+    width:33.33%;
+    height: 165px;
+    background-color:white;
+    margin-left: 30px;
+    margin-top: 40px;
+    padding: 10px;
+    border: 1px solid gainsboro;
+
+}
+.column4 button{
+width:80px;
+background-color: blue;
+color: white;
+border-radius: 5px; 
+}
+.butt1{
+    background-color: gainsboro;
+width: 100%; padding-top: 10px;
+padding-bottom: 10px;padding-left: 10px;margin-left:-10px;
+padding-right: 10px;
+}
+.column5 button{
+    width:80px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    }
+    .butt2{
+        background-color: gainsboro;
+    width: 100%; padding-top: 10px;
+    padding-bottom: 10px;padding-left: 10px;margin-left:-10px;
+    padding-right: 10px;margin-bottom: -3px;
+    }
+
+    .column6 button{
+        width:80px;
+        background-color: blue;
+        color: white;
+        border-radius: 5px;
+        }
+        .butt3{
+            background-color: gainsboro;
+        width: 100%; padding-top: 10px;
+        padding-bottom: 10px;padding-left: 10px;margin-left:-10px;
+        padding-right: 10px;
+        }
+        
+.column4 p{
+    margin-top: 10px;
+}
+.column4 h1{
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+.column5 p{
+margin-top: 10px;
+}
+.column5 h2{
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+.column6 p{
+margin-top: 10px;
+}
+.column6 h3{
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: -50px;
+    margin-bottom: -1px;
+}
+
+
+
+
+
+
+
+
+  
+
